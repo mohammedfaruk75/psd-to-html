@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    
+}
+body {
+    font-family: 'Playfair Display', serif;
+}
+/*header part start */
+header {
+    width: 100%;
+    float: left;
+    background: #f6f9f9;
+    padding: 23px 0;
+    
+
+}
+.logo {
+    float: left;
+ 
+}
+.logo img {
+    display: block;
+    max-width: 100%
+}
+.hero-sec{
+    width: 100%;
+    float: left;
+    background-image: url(../img/bc.jpg);
+    padding: 75px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-main {    
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px
+
+}
+.hero-main h2{
+    color: #ffffff;
+    font-size: 120px;
+    font-family:'Lato', sans-serif;
+    text-align: center;
+}
+.hero-main span {
+    border-bottom: 2px solid #15a4fa;
+    display: block;
+    width: 89%;
+    margin: 25px auto;  
+}
+.hero-main p {
+    font-size: 22px;
+    color: #ffff;
+    margin-bottom: 50px;
+}
+.btn {
+    background: transparent;
+    padding: 12px 24px;
+    border :2px solid #15a4fa;
+    color: #ffff;
+
+
+
+}
+.simple{
+    background: #f6f9f9;
+    width: 100%;
+    float: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.simple-one {
+    text-align: center;
+}
+.simple-one h2{
+    text-align: center;
+    padding: 14px 0px;}
+.simple-one p{    
+    padding-bottom: 65px;
+    margin: 6px 104px;
+    font-size: 18px;
+}
+
+.icon {
+    width: 100%;
+    float: left;
+
+}
+.icon-one {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.fa.fa-mobile{ 
+    background: #48baff;
+    padding: 36px;
+    font-size: 40px;
+    color: #ffff;
+    margin-top: 38px;
+    margin-bottom: 20px;   
+}
+.fa.fa-paper-plane-o {
+    background: #48baff;
+    padding: 36px;
+    font-size: 40px;
+    color: #ffff;
+    margin-top: 38px;
+    margin-bottom: 20px;
+}
+.fa.fa-bullhorn{
+    background: #48baff;
+    padding: 36px;
+    font-size: 40px;
+    color: #ffff;
+    margin-top: 38px;
+    margin-bottom: 20px;
+}
+.icon-one h3 {
+    font-size: 22px;    
+}
+.icon-one p {
+    font-size: 15px;
+    margin: 12px 40px;
+    color: #999999;    
+}
+.Showcase {
+    width: 100%;
+    float: left;
+    background: #f6f9f9;
+
+}
+.description {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px
+}
+.description h2{
+    font-size: 30px;
+}
+.description p{
+    font-size: 18px;
+}
+.img {
+    width: 100%;
+    float: left;
+
+}
+.img-top {
+    width: 27%;
+    float: left;
+    margin: 0px 15px;
+    padding: 5px 20px;
+
+}
+.img-top img {
+    
+
+}
+.Contact {
+    background-image: url(../img.Strict.jpg);
+    background-color: #2d3950;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.Contact-form {
+
+}
+.Contact-form h2 {
+
+}
+.Contact-form p{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
